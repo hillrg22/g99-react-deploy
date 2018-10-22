@@ -20,4 +20,4 @@
 
 
 ### deployed URL
-[Deployed link](kindhearted-help.surge.sh)
+[Deployed link](https://kindhearted-help.surge.sh)
